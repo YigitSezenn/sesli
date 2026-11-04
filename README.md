@@ -1,6 +1,6 @@
 # Sesli
 
-Kişisel sesli kitap uygulaması. Hesap yok, kendi sunucumuz yok. Katalog [LibriVox](https://librivox.org/api/info) açık API’sinden gelir. Ses dosyaları Internet Archive adreslerindedir. Anahtarsızdır: depoda API anahtarı, token veya gizli dosya yok.
+Kişisel sesli kitap uygulaması. Hesap yok, kendi sunucumuz yok. Katalog [LibriVox](https://librivox.org/api/info) açık API’sinden gelir. Ses dosyaları Internet Archive adreslerindedir.
 
 ## Ekranlar
 
